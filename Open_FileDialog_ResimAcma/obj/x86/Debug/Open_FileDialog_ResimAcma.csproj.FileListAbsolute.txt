@@ -1,0 +1,201 @@
+C:\Users\Gokhan\Documents\Visual Studio 2010\Open_FileDialog_ResimAcma\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.exe
+C:\Users\Gokhan\Documents\Visual Studio 2010\Open_FileDialog_ResimAcma\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.pdb
+C:\Users\Gokhan\Documents\Visual Studio 2010\Open_FileDialog_ResimAcma\Open_FileDialog_ResimAcma\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gokhan\Documents\Visual Studio 2010\Open_FileDialog_ResimAcma\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form1.resources
+C:\Users\Gokhan\Documents\Visual Studio 2010\Open_FileDialog_ResimAcma\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Properties.Resources.resources
+C:\Users\Gokhan\Documents\Visual Studio 2010\Open_FileDialog_ResimAcma\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gokhan\Documents\Visual Studio 2010\Open_FileDialog_ResimAcma\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gokhan\Documents\Visual Studio 2010\Open_FileDialog_ResimAcma\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.exe
+C:\Users\Gokhan\Documents\Visual Studio 2010\Open_FileDialog_ResimAcma\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.pdb
+C:\Users\Gokhan\Desktop\Dosya\Gökhan aydın proje\Open_FileDialog_ResimAcma_Gri_resim_yapma\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.exe
+C:\Users\Gokhan\Desktop\Dosya\Gökhan aydın proje\Open_FileDialog_ResimAcma_Gri_resim_yapma\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.pdb
+C:\Users\Gokhan\Desktop\Dosya\Gökhan aydın proje\Open_FileDialog_ResimAcma_Gri_resim_yapma\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.exe
+C:\Users\Gokhan\Desktop\Dosya\Gökhan aydın proje\Open_FileDialog_ResimAcma_Gri_resim_yapma\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.pdb
+C:\Users\Gokhan\Desktop\Dosya\Gökhan aydın proje\Open_FileDialog_ResimAcma_Gri_resim_yapma\Open_FileDialog_ResimAcma\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gokhan\Desktop\Dosya\Gökhan aydın proje\Open_FileDialog_ResimAcma_Gri_resim_yapma\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form1.resources
+C:\Users\Gokhan\Desktop\Dosya\Gökhan aydın proje\Open_FileDialog_ResimAcma_Gri_resim_yapma\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Properties.Resources.resources
+C:\Users\Gokhan\Desktop\Dosya\Gökhan aydın proje\Open_FileDialog_ResimAcma_Gri_resim_yapma\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gokhan\Desktop\Dosya\Gökhan aydın proje\Open_FileDialog_ResimAcma_Gri_resim_yapma\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Gökhan aydın proje\Open_FileDialog_ResimAcma_Gri_resim_yapma\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.exe
+G:\Gökhan aydın proje\Open_FileDialog_ResimAcma_Gri_resim_yapma\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.pdb
+C:\Users\Gokhan\Desktop\Dosya\Gökhan aydın proje\Open_FileDialog_ResimAcma_Gri_resim_yapma\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Matrise_aktar.resources
+C:\Users\Gokhan\Desktop\Open_FileDialog_ResimAcma_Gri_resim_yapma\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.exe
+C:\Users\Gokhan\Desktop\Open_FileDialog_ResimAcma_Gri_resim_yapma\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.pdb
+C:\Users\Gokhan\Desktop\Open_FileDialog_ResimAcma_Gri_resim_yapma\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.exe
+C:\Users\Gokhan\Desktop\Open_FileDialog_ResimAcma_Gri_resim_yapma\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.pdb
+C:\Users\Gokhan\Desktop\Open_FileDialog_ResimAcma_Gri_resim_yapma\Open_FileDialog_ResimAcma\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gokhan\Desktop\Open_FileDialog_ResimAcma_Gri_resim_yapma\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form1.resources
+C:\Users\Gokhan\Desktop\Open_FileDialog_ResimAcma_Gri_resim_yapma\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Matrise_aktar.resources
+C:\Users\Gokhan\Desktop\Open_FileDialog_ResimAcma_Gri_resim_yapma\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Properties.Resources.resources
+C:\Users\Gokhan\Desktop\Open_FileDialog_ResimAcma_Gri_resim_yapma\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gokhan\Desktop\Open_FileDialog_ResimAcma_Gri_resim_yapma\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lg\Desktop\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.exe
+C:\Users\lg\Desktop\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.pdb
+C:\Users\lg\Desktop\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.exe
+C:\Users\lg\Desktop\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.pdb
+C:\Users\lg\Desktop\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lg\Desktop\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form1.resources
+C:\Users\lg\Desktop\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Matrise_aktar.resources
+C:\Users\lg\Desktop\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Properties.Resources.resources
+C:\Users\lg\Desktop\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lg\Desktop\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lg\Desktop\gökhanAydın\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.exe
+C:\Users\lg\Desktop\gökhanAydın\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.pdb
+C:\Users\lg\Desktop\gökhanAydın\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.exe
+C:\Users\lg\Desktop\gökhanAydın\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.pdb
+C:\Users\lg\Desktop\gökhanAydın\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lg\Desktop\gökhanAydın\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form1.resources
+C:\Users\lg\Desktop\gökhanAydın\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Matrise_aktar.resources
+C:\Users\lg\Desktop\gökhanAydın\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Properties.Resources.resources
+C:\Users\lg\Desktop\gökhanAydın\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lg\Desktop\gökhanAydın\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Kodlar\Görüntü işleme projesi\gökhanAydın\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.exe
+D:\Kodlar\Görüntü işleme projesi\gökhanAydın\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.pdb
+D:\Kodlar\Görüntü işleme projesi\gökhanAydın\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.exe
+D:\Kodlar\Görüntü işleme projesi\gökhanAydın\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.pdb
+D:\Kodlar\Görüntü işleme projesi\gökhanAydın\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Kodlar\Görüntü işleme projesi\gökhanAydın\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form1.resources
+D:\Kodlar\Görüntü işleme projesi\gökhanAydın\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Matrise_aktar.resources
+D:\Kodlar\Görüntü işleme projesi\gökhanAydın\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Properties.Resources.resources
+D:\Kodlar\Görüntü işleme projesi\gökhanAydın\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Kodlar\Görüntü işleme projesi\gökhanAydın\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Kodlar\Görüntü işleme projesi\gökhanAydın - Kopya (2)\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Kodlar\Görüntü işleme projesi\gökhanAydın - Kopya (2)\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form1.resources
+D:\Kodlar\Görüntü işleme projesi\gökhanAydın - Kopya (2)\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Matrise_aktar.resources
+D:\Kodlar\Görüntü işleme projesi\gökhanAydın - Kopya (2)\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Properties.Resources.resources
+D:\Kodlar\Görüntü işleme projesi\gökhanAydın - Kopya (2)\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Kodlar\Görüntü işleme projesi\gökhanAydın - Kopya (2)\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Kodlar\Görüntü işleme projesi\gökhanAydın - Kopya (2)\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.exe
+D:\Kodlar\Görüntü işleme projesi\gökhanAydın - Kopya (2)\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.pdb
+D:\Kodlar\Görüntü işleme projesi\gökhanAydın - Kopya (2)\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.exe
+D:\Kodlar\Görüntü işleme projesi\gökhanAydın - Kopya (2)\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.pdb
+C:\Users\Rambo\Desktop\gökhanAydın - Kopya (2)\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.exe
+C:\Users\Rambo\Desktop\gökhanAydın - Kopya (2)\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.pdb
+C:\Users\Rambo\Desktop\gökhanAydın - Kopya (2)\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.exe
+C:\Users\Rambo\Desktop\gökhanAydın - Kopya (2)\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.pdb
+C:\Users\Rambo\Desktop\gökhanAydın - Kopya (2)\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rambo\Desktop\gökhanAydın - Kopya (2)\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form1.resources
+C:\Users\Rambo\Desktop\gökhanAydın - Kopya (2)\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Matrise_aktar.resources
+C:\Users\Rambo\Desktop\gökhanAydın - Kopya (2)\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Properties.Resources.resources
+C:\Users\Rambo\Desktop\gökhanAydın - Kopya (2)\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rambo\Desktop\gökhanAydın - Kopya (2)\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rambo\Desktop\gökhanAydın - Kopya (2)\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form2.resources
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.exe
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.pdb
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.exe
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.pdb
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form1.resources
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form2.resources
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Matrise_aktar.resources
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Properties.Resources.resources
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3 - Kopya\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.exe
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3 - Kopya\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.pdb
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3 - Kopya\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3 - Kopya\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form1.resources
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3 - Kopya\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form2.resources
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3 - Kopya\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Matrise_aktar.resources
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3 - Kopya\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Properties.Resources.resources
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3 - Kopya\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3 - Kopya\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3 - Kopya\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.exe
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3 - Kopya\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.pdb
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3 - Kopyatime1452\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.exe
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3 - Kopyatime1452\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.pdb
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3 - Kopyatime1452\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.exe
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3 - Kopyatime1452\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.pdb
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3 - Kopyatime1452\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3 - Kopyatime1452\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form1.resources
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3 - Kopyatime1452\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form2.resources
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3 - Kopyatime1452\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Matrise_aktar.resources
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3 - Kopyatime1452\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Properties.Resources.resources
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3 - Kopyatime1452\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rambo\Desktop\gökhanAydın - Kopyason 3 - Kopyatime1452\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rambo\Desktop\gökhanAydın 15.05.2013_12-05\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.exe
+C:\Users\Rambo\Desktop\gökhanAydın 15.05.2013_12-05\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.pdb
+C:\Users\Rambo\Desktop\gökhanAydın 15.05.2013_12-05\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.exe
+C:\Users\Rambo\Desktop\gökhanAydın 15.05.2013_12-05\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.pdb
+C:\Users\Rambo\Desktop\gökhanAydın 15.05.2013_12-05\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rambo\Desktop\gökhanAydın 15.05.2013_12-05\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form1.resources
+C:\Users\Rambo\Desktop\gökhanAydın 15.05.2013_12-05\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form2.resources
+C:\Users\Rambo\Desktop\gökhanAydın 15.05.2013_12-05\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Matrise_aktar.resources
+C:\Users\Rambo\Desktop\gökhanAydın 15.05.2013_12-05\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Properties.Resources.resources
+C:\Users\Rambo\Desktop\gökhanAydın 15.05.2013_12-05\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rambo\Desktop\gökhanAydın 15.05.2013_12-05\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rambo\Desktop\gökhanAydın 15.05.2013_12-05-3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.exe
+C:\Users\Rambo\Desktop\gökhanAydın 15.05.2013_12-05-3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.pdb
+C:\Users\Rambo\Desktop\gökhanAydın 15.05.2013_12-05-3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.exe
+C:\Users\Rambo\Desktop\gökhanAydın 15.05.2013_12-05-3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.pdb
+C:\Users\Rambo\Desktop\gökhanAydın 15.05.2013_12-05-3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rambo\Desktop\gökhanAydın 15.05.2013_12-05-3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form1.resources
+C:\Users\Rambo\Desktop\gökhanAydın 15.05.2013_12-05-3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form2.resources
+C:\Users\Rambo\Desktop\gökhanAydın 15.05.2013_12-05-3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Matrise_aktar.resources
+C:\Users\Rambo\Desktop\gökhanAydın 15.05.2013_12-05-3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Properties.Resources.resources
+C:\Users\Rambo\Desktop\gökhanAydın 15.05.2013_12-05-3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rambo\Desktop\gökhanAydın 15.05.2013_12-05-3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\gökhanAydın 15.05.2013_12-05-3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.exe
+F:\gökhanAydın 15.05.2013_12-05-3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.pdb
+F:\gökhanAydın 15.05.2013_12-05-3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.exe
+F:\gökhanAydın 15.05.2013_12-05-3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.pdb
+F:\gökhanAydın 15.05.2013_12-05-3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\gökhanAydın 15.05.2013_12-05-3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form1.resources
+F:\gökhanAydın 15.05.2013_12-05-3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form2.resources
+F:\gökhanAydın 15.05.2013_12-05-3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Matrise_aktar.resources
+F:\gökhanAydın 15.05.2013_12-05-3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Properties.Resources.resources
+F:\gökhanAydın 15.05.2013_12-05-3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\gökhanAydın 15.05.2013_12-05-3\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\gökhanAydın Görüntü işlem PROJESİ\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.exe
+F:\gökhanAydın Görüntü işlem PROJESİ\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.pdb
+I:\gökhanAydın Görüntü işlem PROJESİ\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.exe
+I:\gökhanAydın Görüntü işlem PROJESİ\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.pdb
+I:\gökhanAydın Görüntü işlem PROJESİ\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.exe
+I:\gökhanAydın Görüntü işlem PROJESİ\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.pdb
+I:\gökhanAydın Görüntü işlem PROJESİ\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\gökhanAydın Görüntü işlem PROJESİ\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form1.resources
+I:\gökhanAydın Görüntü işlem PROJESİ\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form2.resources
+I:\gökhanAydın Görüntü işlem PROJESİ\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Matrise_aktar.resources
+I:\gökhanAydın Görüntü işlem PROJESİ\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Properties.Resources.resources
+I:\gökhanAydın Görüntü işlem PROJESİ\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\gökhanAydın Görüntü işlem PROJESİ\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rambo\Desktop\gökhanAydın Görüntü işlem PROJESİ\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.exe
+C:\Users\Rambo\Desktop\gökhanAydın Görüntü işlem PROJESİ\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.pdb
+C:\Users\Rambo\Desktop\gökhanAydın Görüntü işlem PROJESİ\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.exe
+C:\Users\Rambo\Desktop\gökhanAydın Görüntü işlem PROJESİ\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.pdb
+C:\Users\Rambo\Desktop\gökhanAydın Görüntü işlem PROJESİ\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rambo\Desktop\gökhanAydın Görüntü işlem PROJESİ\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form1.resources
+C:\Users\Rambo\Desktop\gökhanAydın Görüntü işlem PROJESİ\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form2.resources
+C:\Users\Rambo\Desktop\gökhanAydın Görüntü işlem PROJESİ\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Matrise_aktar.resources
+C:\Users\Rambo\Desktop\gökhanAydın Görüntü işlem PROJESİ\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Properties.Resources.resources
+C:\Users\Rambo\Desktop\gökhanAydın Görüntü işlem PROJESİ\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rambo\Desktop\gökhanAydın Görüntü işlem PROJESİ\Open_FileDialog_ResimAcma_Gri_resim_yapmason_hali\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\PROJE SON HALİ\243944 GÖKHAN AYDIN Görüntü işlem PROJESİ\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.exe
+I:\PROJE SON HALİ\243944 GÖKHAN AYDIN Görüntü işlem PROJESİ\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.pdb
+I:\PROJE SON HALİ\243944 GÖKHAN AYDIN Görüntü işlem PROJESİ\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.exe
+I:\PROJE SON HALİ\243944 GÖKHAN AYDIN Görüntü işlem PROJESİ\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.pdb
+I:\PROJE SON HALİ\243944 GÖKHAN AYDIN Görüntü işlem PROJESİ\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\PROJE SON HALİ\243944 GÖKHAN AYDIN Görüntü işlem PROJESİ\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form1.resources
+I:\PROJE SON HALİ\243944 GÖKHAN AYDIN Görüntü işlem PROJESİ\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form2.resources
+I:\PROJE SON HALİ\243944 GÖKHAN AYDIN Görüntü işlem PROJESİ\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Matrise_aktar.resources
+I:\PROJE SON HALİ\243944 GÖKHAN AYDIN Görüntü işlem PROJESİ\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Properties.Resources.resources
+I:\PROJE SON HALİ\243944 GÖKHAN AYDIN Görüntü işlem PROJESİ\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\PROJE SON HALİ\243944 GÖKHAN AYDIN Görüntü işlem PROJESİ\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Gökhan AYDIN ders notları\Gökhan'ın dosyaları\243944 GÖKHAN AYDIN Görüntü işlem PROJESİ\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.exe
+D:\Gökhan AYDIN ders notları\Gökhan'ın dosyaları\243944 GÖKHAN AYDIN Görüntü işlem PROJESİ\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.pdb
+D:\Gökhan AYDIN ders notları\Gökhan'ın dosyaları\243944 GÖKHAN AYDIN Görüntü işlem PROJESİ\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.exe
+D:\Gökhan AYDIN ders notları\Gökhan'ın dosyaları\243944 GÖKHAN AYDIN Görüntü işlem PROJESİ\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.pdb
+D:\Gökhan AYDIN ders notları\Gökhan'ın dosyaları\243944 GÖKHAN AYDIN Görüntü işlem PROJESİ\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form1.resources
+D:\Gökhan AYDIN ders notları\Gökhan'ın dosyaları\243944 GÖKHAN AYDIN Görüntü işlem PROJESİ\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form2.resources
+D:\Gökhan AYDIN ders notları\Gökhan'ın dosyaları\243944 GÖKHAN AYDIN Görüntü işlem PROJESİ\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Matrise_aktar.resources
+D:\Gökhan AYDIN ders notları\Gökhan'ın dosyaları\243944 GÖKHAN AYDIN Görüntü işlem PROJESİ\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Properties.Resources.resources
+D:\Gökhan AYDIN ders notları\Gökhan'ın dosyaları\243944 GÖKHAN AYDIN Görüntü işlem PROJESİ\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.csprojResolveAssemblyReference.cache
+D:\Gökhan AYDIN ders notları\Gökhan'ın dosyaları\243944 GÖKHAN AYDIN Görüntü işlem PROJESİ\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.csproj.GenerateResource.Cache
+C:\Users\GOKTURK_ENGİNEERİNG\Desktop\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.exe
+C:\Users\GOKTURK_ENGİNEERİNG\Desktop\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.pdb
+C:\Users\GOKTURK_ENGİNEERİNG\Desktop\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.exe
+C:\Users\GOKTURK_ENGİNEERİNG\Desktop\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.pdb
+C:\Users\GOKTURK_ENGİNEERİNG\Desktop\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.csprojResolveAssemblyReference.cache
+C:\Users\GOKTURK_ENGİNEERİNG\Desktop\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Form1.resources
+C:\Users\GOKTURK_ENGİNEERİNG\Desktop\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.Properties.Resources.resources
+C:\Users\GOKTURK_ENGİNEERİNG\Desktop\243944 GÖKHAN AYDIN\Open_FileDialog_ResimAcma\obj\x86\Debug\Open_FileDialog_ResimAcma.csproj.GenerateResource.Cache

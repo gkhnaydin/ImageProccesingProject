@@ -1,0 +1,3 @@
+﻿------ Build started: Project: Open_FileDialog_ResimAcma, Configuration: Debug x86 ------
+  Open_FileDialog_ResimAcma -> C:\Users\Gokhan\Desktop\Dosya\Gökhan aydın proje\Open_FileDialog_ResimAcma_Gri_resim_yapma\Open_FileDialog_ResimAcma\bin\Debug\Open_FileDialog_ResimAcma.exe
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========
